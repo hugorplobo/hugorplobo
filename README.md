@@ -23,11 +23,11 @@
 - C++
   
 ### :muscle: Things I'm currently challenging myself with:
-- Exercise everyday!
+- Code exercises everyday!
 - Trying to wake up earlier to make good use of the day
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=hugorplobo&show_icons=true&hide_border=true">
 
 
-#### To reach me: just send a email, a message on discord or instagram, all links above!
+#### To reach me: just send an email, a message on discord or instagram, all links are above!
