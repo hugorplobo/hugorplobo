@@ -15,12 +15,25 @@
 - Taking online courses about Web Development
 - Solving algorithm challenges in the [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/profile/524595)
 - Coding some ideas on my [Codepen](https://codepen.io/knexx)
+- Creating my discord bot!
 
 ### :books: Things I'm currently learning:
-- HTML, CSS and JavaScript
-- Node.js
-- React
-- C++
+  ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  
+  ![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  
+  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  
+  ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+### :brain: Things I already know:
+  ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  
+  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  
+  ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
 ### :muscle: Things I'm currently challenging myself with:
 - Code exercises everyday!
