@@ -11,11 +11,12 @@
 
 :sparkles: Welcome to my Github Page, my full name is Antônio Hugo Ribeiro Pereira Lobo, but you can call me just Hugo. I'm 17 years old and I live in Brazil. I recently graduated from high school and I am looking for a degree in Computer Science or Software Engineering.
 
-#### :hammer: Things I'm currently working on:
+### :hammer: Things I'm currently working on:
 - Taking online courses about Web Development
 - Solving algorithm challenges in the [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/profile/524595)
 - Coding some ideas on my [Codepen](https://codepen.io/knexx)
-- Creating my discord bot!
+- Creating my [discord bot](https://github.com/hugorplobo/vieirinha)! 
+- Creating a [tasks app](https://github.com/hugorplobo/tasks-app)!
 
 ### :books: Things I'm currently learning:
   ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
