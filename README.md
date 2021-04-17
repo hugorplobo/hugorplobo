@@ -42,7 +42,16 @@
 - Trying to wake up earlier to make good use of the day
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=hugorplobo&show_icons=true&hide_border=true&theme=dracula">
+<table>
+	<tr>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugorplobo&hide=html&hide_border=true&layout=compact&theme=dracula" align="left" width="400px">
+		</td>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api?username=hugorplobo&show_icons=true&hide_border=true&theme=dracula" align="right" width="400px">
+		</td>
+	</tr>
+</table>
 
 
 #### To reach me: just send an email, a message on discord or instagram, all links are above!
