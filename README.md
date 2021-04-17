@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=E41E52&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hugoo.js)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=hugorplobo@gmail.com&color=555555&style=flat-square&logo=gmail&logoColor=white)](mailto:hugorplobo@gmail.com)
 
-:sparkles: Welcome to my Github Page, my full name is Antônio Hugo Ribeiro Pereira Lobo, but you can call me just Hugo. I'm 17 years old and I live in Brazil. I recently graduated from high school and I am looking for a degree in Computer Science or Software Engineering.
+:sparkles: Welcome to my Github Page, my full name is Antônio Hugo Ribeiro Pereira Lobo, but you can call me just Hugo. I'm 17 years old and I live in Brazil. I recently graduated from high school and now I'm taking a degree on Software Engineering.
 
 ### :hammer: Things I'm currently working on:
 - Taking online courses about Web Development
