@@ -5,6 +5,7 @@
 [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat-square&logo=github)](https://github.com/hugorplobo)
 [![Codepen](https://img.shields.io/static/v1?label=&message=Codepen&color=1E1F26&style=flat-square&logo=codepen)](https://codepen.io/knexx)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-hugo-ribeiro-pereira-lobo-82b6611a2/)
+[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=0E7FBF&&&style=flat-square&logo=telegram&logoColor=white)](https://t.me/hugo_rp_lobo)
 [![Discord](https://img.shields.io/static/v1?label=Discord&labelColor=6E85D3&message=@knexx%237789&color=555555&style=flat-square&logo=discord&logoColor=white)](#)
 [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=E41E52&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hugo.cpp)
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=hugorplobo@gmail.com&color=555555&style=flat-square&logo=gmail&logoColor=white)](mailto:hugorplobo@gmail.com)
