@@ -1,6 +1,6 @@
 ### Hi there <img src="https://i.imgur.com/u8HivgI.gif" width="25px">
 
-### I'm Antônio Hugo!
+### I'm Hugo!
 
 [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat-square&logo=github)](https://github.com/hugorplobo)
 [![Codepen](https://img.shields.io/static/v1?label=&message=Codepen&color=1E1F26&style=flat-square&logo=codepen)](https://codepen.io/knexx)
