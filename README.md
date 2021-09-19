@@ -14,7 +14,7 @@ Knowledge: Js, Python, C, C++
 Learning: SQL, Nodejs, React
 Hobbies: Reading
 Repos: 14
-Starred: 5
+Starred: 6
 Discord: knexx#8468
 Instagram: hugo.cpp
 Email: hugorplobo@gmail.com
@@ -23,5 +23,5 @@ Email: hugorplobo@gmail.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./resources/colors.png" alt="Profile colors" align="center" width="220px" />
