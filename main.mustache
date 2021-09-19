@@ -2,7 +2,7 @@
 $ neofetch
 ```
 
-<img  src="resources/profile.png"  alt="Profile image"  align="left"  width="320px" />
+<img  src="resources/profile.jpg"  alt="Profile image"  align="left"  width="320px" />
 
 ```csharp
 hugorplobo@github
