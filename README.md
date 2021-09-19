@@ -1,59 +1,28 @@
-### Hi there <img src="https://i.imgur.com/u8HivgI.gif" width="25px">
 
-### I'm Hugo!
+```bash
+$ neofetch
+```
 
-[![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat-square&logo=github)](https://github.com/hugorplobo)
-[![Codepen](https://img.shields.io/static/v1?label=&message=Codepen&color=1E1F26&style=flat-square&logo=codepen)](https://codepen.io/knexx)
-[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-hugo-ribeiro-pereira-lobo-82b6611a2/)
-[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=0E7FBF&&&style=flat-square&logo=telegram&logoColor=white)](https://t.me/hugo_rp_lobo)
-[![Discord](https://img.shields.io/static/v1?label=Discord&labelColor=6E85D3&message=@knexx%237789&color=555555&style=flat-square&logo=discord&logoColor=white)](#)
-[![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=E41E52&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hugo.cpp)
-[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=hugorplobo@gmail.com&color=555555&style=flat-square&logo=gmail&logoColor=white)](mailto:hugorplobo@gmail.com)
+<img  src="https://i.imgur.com/IlrJEm4.jpg"  alt="Profile image"  align="left"  width="320px" />
 
-:sparkles: Welcome to my Github Page, my full name is Antônio Hugo Ribeiro Pereira Lobo, but you can call me just Hugo. I'm 18 years old and I live in Brazil. I recently graduated from high school and now I'm taking a degree on Software Engineering.
-
-### :hammer: Things I'm currently working on:
-- Taking online courses about Web Development
-- Solving algorithm challenges in the [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/profile/524595)
-- Coding some ideas on my [Codepen](https://codepen.io/knexx)
-- Creating my [discord bot](https://github.com/hugorplobo/vieirinha)! 
-- Creating a [tasks app](https://github.com/hugorplobo/tasks-app)!
-
-### :books: Things I'm currently learning:
-  ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  
-  ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  
-  ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-### :brain: Things I already know:
-  ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  
-  ![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-  
-  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  
-  ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  
-### :muscle: Things I'm currently challenging myself with:
-- Code exercises everyday!
-- Trying to wake up earlier to make good use of the day
-
-
-<table>
-	<tr>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugorplobo&hide=html&hide_border=true&layout=compact&theme=dracula" align="left" width="400px">
-		</td>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=hugorplobo&show_icons=true&hide_border=true&theme=dracula" align="right" width="400px">
-		</td>
-	</tr>
-</table>
-
-
-#### To reach me: just send an email, a message on discord or instagram, all links are above!
+```csharp
+hugorplobo@github
+------------------
+OS: Xubuntu 20.04
+Shell: zsh 5.8
+Location: Ceara, Brazil
+Knowledge: Js, Python, C, C++
+Learning: SQL, Nodejs, React
+Hobbies: Reading
+Commits: {{ totalCommits }}
+Stars: {{ totalStars }}
+Discord: knexx#8468
+Instagram: hugo.cpp
+Email: hugorplobo@gmail.com
+```
+<!-- Yeah a mess D: -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/MywnAV9.png" alt="Profile colors" align="center" width="220px" />
