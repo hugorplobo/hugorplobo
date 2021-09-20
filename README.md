@@ -13,8 +13,8 @@ Location: Ceara, Brazil
 Knowledge: Js, Python, C, C++
 Learning: SQL, Nodejs, React
 Hobbies: Reading
-Repos: 14
-Starred: 6
+Repos: 15
+Starred: 7
 Discord: knexx#8468
 Instagram: hugo.cpp
 Email: hugorplobo@gmail.com
