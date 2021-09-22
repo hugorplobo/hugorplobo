@@ -2,7 +2,7 @@
 $ neofetch
 ```
 
-<img  src="resources/profile.jpg"  alt="Profile image"  align="left"  width="280px" />
+<img src="resources/profile.jpg" alt="Profile image" align="left" width="280px" />
 
 ```csharp
 hugorplobo@github
@@ -20,8 +20,7 @@ Instagram: hugo.cpp
 Email: hugorplobo@gmail.com
 
 ```
-
-<!-- Yeah a mess D: -->
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./resources/colors.png" alt="Profile colors" width="220px" />
