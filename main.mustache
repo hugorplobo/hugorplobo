@@ -8,7 +8,7 @@ $ neofetch
 hugorplobo@github
 ------------------
 OS: Ubuntu 21.10
-Shell: bash 5.1.8
+Shell: bash 5.1
 Location: Ceara, Brazil
 Knowledge: Js, Python, C, C++
 Learning: Rust
