@@ -7,8 +7,8 @@ $ neofetch
 ```csharp
 hugorplobo@github
 ------------------
-OS: Ubuntu 21.10
-Shell: bash 5.1
+OS: Ubuntu 22.04
+Shell: zsh 5.0.8
 Location: Ceara, Brazil
 Knowledge: Js, Python, C, C++
 Learning: Rust
