@@ -8,7 +8,7 @@ $ neofetch
 hugorplobo@github
 ------------------
 OS: Ubuntu 22.04
-Shell: zsh 5.0.8
+Shell: zsh
 Location: Ceara, Brazil
 Knowledge: Js, Python, C, C++
 Learning: Rust
