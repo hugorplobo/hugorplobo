@@ -13,7 +13,7 @@ Location: Ceara, Brazil
 Knowledge: Js, Python, C, C++
 Learning: Rust
 Hobbies: Reading
-Repos: 18
+Repos: 17
 Starred: 9
 Discord: knexx#8468
 Instagram: hugo.cpp
