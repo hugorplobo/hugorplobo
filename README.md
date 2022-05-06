@@ -14,7 +14,7 @@ Knowledge: Js, Python, C, C++
 Learning: Rust
 Hobbies: Reading
 Repos: 17
-Starred: 9
+Starred: 10
 Discord: knexx#8468
 Instagram: hugo.cpp
 Email: hugorplobo@gmail.com
