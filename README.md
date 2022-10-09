@@ -10,6 +10,9 @@
 :computer: I love to learn about new things and try to build cool projects in my free time :D
 
 ---
+<br />
+<br />
+<br />
 
 ### What I know :star_struck:
 
