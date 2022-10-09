@@ -3,15 +3,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugo.cpp) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hugorplobo)
 
-<img src="https://lanyard.cnrad.dev/api/498128956965519370" align="right" width="400px"/>
+<img src="https://lanyard.cnrad.dev/api/498128956965519370" align="right" width="350px"/>
 
 :sparkles: Hi, I'm Hugo. I'm 19 years old, I'm from Ceará, Brazil and currently taking a software engineering degree at the Federal University of Ceara (UFC). 
 
 :computer: I love to learn about new things and try to build cool projects in my free time :D
 
 ---
-<br />
-<br />
 <br />
 
 ### What I know :star_struck:
