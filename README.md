@@ -3,8 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugo.cpp) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hugorplobo)
 
-<!-- Real time vscode activity :o, check out my repo! -->
-<img src="https://vscode-readme-activity-server-njwsq2qama-uc.a.run.app/svg?id=9909c7d4-96fd-40cb-87ca-3656d27376fd" align="right"/>
+<img src="https://lanyard.cnrad.dev/api/498128956965519370" align="right" width="400px"/>
 
 :sparkles: Hi, I'm Hugo. I'm 19 years old, I'm from Ceará, Brazil and currently taking a software engineering degree at the Federal University of Ceara (UFC). 
 
