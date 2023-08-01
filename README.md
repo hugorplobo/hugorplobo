@@ -5,7 +5,7 @@
 
 <img src="https://lanyard.cnrad.dev/api/498128956965519370" align="right" width="350px"/>
 
-:sparkles: Hi, I'm Hugo. I'm 19 years old, I'm from Ceará, Brazil and currently taking a software engineering degree at the Federal University of Ceara (UFC). 
+:sparkles: Hi, I'm Hugo. I'm 20 years old, I'm from Ceará, Brazil and currently taking a software engineering degree at the Federal University of Ceara (UFC). 
 
 :computer: I love to learn about new things and try to build cool projects in my free time :D
 
