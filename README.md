@@ -5,7 +5,7 @@
 
 <img src="https://lanyard.cnrad.dev/api/498128956965519370" align="right" width="350px"/>
 
-:sparkles: Hi, I'm Hugo. I'm 20 years old, I'm from Ceará, Brazil and currently taking a software engineering degree at the Federal University of Ceara (UFC). 
+:sparkles: Hi, I'm Hugo. I'm 21 years old, I'm from Ceará, Brazil and currently taking a software engineering degree at the Federal University of Ceara (UFC). 
 
 :computer: I love to learn about new things and try to build cool projects in my free time :D
 
@@ -25,13 +25,10 @@
 ![Cpp Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-D00000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Badge](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgresql Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### I'm learning these guys :cold_face:
-
-![Spring Badge](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### My dev enviroment :robot:
 
